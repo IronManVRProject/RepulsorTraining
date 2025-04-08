@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1bfdcce35467a427fabad6b77e85a39a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitEffectPrefab: {instanceID: 0}
+  - destructionEffectPrefab: {instanceID: 0}
+  - hitMaterial: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - destructionSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
